@@ -11,6 +11,20 @@ The original OpenCL source is distributed with the NVIDIA OpenCL examples
 repository. Extensive modifications and optimizations were performed by Mehdi Roozmeh, of
 Politecnico di Torino, Italy, in order to generate high performance RTL.
 
+Further details can be found in the following paper. If you find this work useful for your research, please consider citing:
+  
+   
+    @ARTICLE{7859319, 
+        author={F. B. Muslim and L. Ma and M. Roozmeh and L. Lavagno}, 
+        journal={IEEE Access}, 
+        title={Efficient FPGA Implementation of OpenCL High-Performance Computing Applications via High-Level Synthesis}, 
+        year={2017}, 
+        volume={5}, 
+        pages={2747-2762}, 
+        doi={10.1109/ACCESS.2017.2671881}, 
+        }
+     
+
 ### Brief Analysis of the Bitonic Sorting Algorithm:
 
 Sorting vectors is a fundamental algorithm used in a variety of
